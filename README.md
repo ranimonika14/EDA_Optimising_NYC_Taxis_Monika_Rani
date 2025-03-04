@@ -12,8 +12,4 @@ This repository contains an **Exploratory Data Analysis (EDA)** of the 2023 NYC 
 - Jupyter Notebook
 
 ## Objectives
-1. Identify peak demand hours.
-2. Analyze trip duration and distance patterns.
-3. Understand fare trends and payment methods.
-4. Provide recommendations for service improvements.
-
+To analyse patterns in the data that can inform strategic decisions to improve service efficiency, maximise revenue, and enhance passenger experience.
